@@ -1,8 +1,8 @@
-# RP_LM2596-KfzPowerSafeguard
-![Pic of Module](https://github.com/rapola/RP_LM2596-KfzPowerSafeguard/blob/main/V1.0/Pics/RP_LM2596-KfzPowerSafeguard_a.png "Module")
+# RP_ISP-Adapter
+![Pic of Module](https://github.com/rapola/RP_ISP-Adapter/blob/main/V1.0/Pics/b_ISP_Adapter_V10.jpg "Module")
 <br>
 ### Schematic
-#### https://github.com/rapola/RP_LM2596-KfzPowerSafeguard/blob/main/V1.0/RP_LM2596-KfzPowerSafeguard.pdf
+#### https://github.com/rapola/RP_ISP-Adapter/blob/main/V1.0/ISP_Adapter_V10.pdf
 ---
 #### ordered 10pcs (JLCPCB), delivered Jan 2021
 
