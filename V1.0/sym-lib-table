@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name Save_Power-in_Board-rescue)(type Legacy)(uri ${KIPRJMOD}/Save_Power-in_Board-rescue.lib)(options "")(descr ""))
-)

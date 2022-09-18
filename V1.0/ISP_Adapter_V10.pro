@@ -1,4 +1,4 @@
-update=15.09.2022 19:38:29
+update=16.03.2021 10:10:24
 version=1
 last_client=kicad
 [general]
@@ -25,7 +25,7 @@ ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
-LastNetListRead=RP_LM2596-KfzPowerSafeguard.net
+LastNetListRead=ISP_Adapter_V10.net
 CopperLayerCount=2
 BoardThickness=1.6
 AllowMicroVias=0
@@ -39,14 +39,11 @@ MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
-TrackWidth2=1.5
-TrackWidth3=2
+TrackWidth2=0.3
 ViaDiameter1=0.8
 ViaDrill1=0.4
-ViaDiameter2=2
-ViaDrill2=1.3
-ViaDiameter3=3
-ViaDrill3=2
+ViaDiameter2=0.8
+ViaDrill2=0.4
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25
@@ -73,7 +70,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.051
 SolderMaskMinWidth=0.25
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0

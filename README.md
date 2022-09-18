@@ -4,7 +4,6 @@
 ### Schematic
 #### https://github.com/rapola/RP_LM2596-KfzPowerSafeguard/blob/main/V1.0/RP_LM2596-KfzPowerSafeguard.pdf
 ---
-#### not ordered yet
----
-#### take care, differen LM2596-Modules on ebay!! Difference in Mounting Holes!!
+#### ordered 10pcs (JLCPCB), delivered Jan 2021
+
 
